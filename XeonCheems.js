@@ -3123,7 +3123,7 @@ break
 break
   case 'help': {
   	anu = `
-🎋 *Yahoo*, I'm *Chika*! I'm ready to */help* you.
+🎋 *Konnichiwa*, I'm *Shinobu Kochō*! I'm ready to */help* you.
 
 🀄 *Owner* - Hyase San
 
@@ -3165,7 +3165,7 @@ break
                             hydratedContentText: anu,
                             locationMessage: {
                             jpegThumbnail: fs.readFileSync('./XeonMedia/cheemspic.jpg')},
-                            hydratedFooterText: `𝘚𝘩𝘪𝘯𝘰𝘣𝘶 𝘒𝘰𝘤𝘩𝘰`,
+                            hydratedFooterText: `𝘚𝘩𝘪𝘯𝘰𝘣𝘶 𝘒𝘰𝘤𝘩𝘰̄`,
                             hydratedButtons: [{
                                 urlButton: {
                                     displayText: 'Instagram',
